@@ -8,3 +8,5 @@
 **AndroidAnnotations** 是一款开源的Android **快捷开发** 框架。它处理掉了一些繁琐的编码，能让你专注于真正重要的内容。通过**简化代码**，而且有利于后面**维护代码**。
 ### [AndroidAnnotation文档](https://github.com/excilys/androidannotations/wiki/Home)
 [![Build Status](https://travis-ci.org/excilys/androidannotations.svg?branch=develop)](https://travis-ci.org/excilys/androidannotations/builds)
+ <i class="icon-weibo"></i>[追云_似梦](http://weibo.com/u/1853359170)
+
