@@ -16,7 +16,7 @@
 [![aa-logo](https://github.com/excilys/androidannotations/wiki/img/aa-logo.png)](https://github.com/excilys/androidannotations/wiki/Home)
 
 **AndroidAnnotations** 是一款开源的Android **快捷开发** 框架。它处理掉了一些繁琐的编码，能让你专注于真正重要的内容。通过**简化代码**，而且有利于后面**维护代码**。
-### [AndroidAnnotation文档](https://github.com/excilys/androidannotations/wiki/Home)
+### [AndroidAnnotation文档](https://github.com/mrljdx/AndroidAnnotaions/blob/master/androidannotation_zh_CN/1.0.1_%E5%B8%B8%E7%94%A8%E6%B3%A8%E9%87%8A.markdown)
 [![Build Status](https://travis-ci.org/excilys/androidannotations.svg?branch=develop)](https://travis-ci.org/excilys/androidannotations/builds)
   
 
