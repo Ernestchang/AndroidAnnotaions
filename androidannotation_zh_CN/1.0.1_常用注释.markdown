@@ -1,10 +1,9 @@
-#常用用注释
-=========
+#常用注释
 
 [原文地址](https://github.com/excilys/androidannotations/wiki/AvailableAnnotations)
 这里列举了很多AndroidAnnotations框架支持的注释以及这些注释的使用文档链接。
 
-> 如果你发现有些注释的文档缺失了，或者链接失效，亦或者任何其它不明白的，请通过创建一个issue来让我们知道。
+> 如果你发现有些注释的文档缺失了，或者链接失效，亦或者任何其它不明白的，请通过创建一个issue来让我知道。
 
 ##高级组件
 
