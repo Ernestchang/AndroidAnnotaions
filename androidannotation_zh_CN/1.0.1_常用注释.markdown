@@ -1,0 +1,44 @@
+#常用用注释
+=========
+[原文地址](https://github.com/excilys/androidannotations/wiki/AvailableAnnotations)
+这里列举了很多AndroidAnnotations框架支持的注释以及这些注释的使用文档链接。
+
+> 如果你发现有些注释的文档缺失了，或者链接失效，亦或者任何其它不明白的，请通过创建一个issue来让我们知道。
+
+##高级组件
+
+* [@EActivity](https://github.com/excilys/androidannotations/wiki/Enhance-activities)
+* [@EApplication](https://github.com/excilys/androidannotations/wiki/Enhancing-the-Application-class)
+* [@EBean](https://github.com/excilys/androidannotations/wiki/Enhance-custom-classes)
+* [@EFragment](https://github.com/excilys/androidannotations/wiki/Enhance-Fragments)
+* [@EProvider](https://github.com/excilys/androidannotations/wiki/Enhance-contentproviders)
+* [@EReceiver](https://github.com/excilys/androidannotations/wiki/Enhance-broadcastreceivers)
+* [@EIntentService](https://github.com/excilys/androidannotations/wiki/Enhance-IntentServices)
+* [@EService](https://github.com/excilys/androidannotations/wiki/Enhance-services)
+* [@EView](https://github.com/excilys/androidannotations/wiki/Enhance-custom-views)
+* [@EViewGroup](https://github.com/excilys/androidannotations/wiki/Enhance-custom-views)
+
+##注入
+
+* [@AfterExtras](https://github.com/excilys/androidannotations/wiki/Extras#executing-code-after-extras-injection)
+* [@AfterInject](https://github.com/excilys/androidannotations/wiki/Enhance-custom-classes#executing-code-after-dependency-injection)
+* [@AfterViews](https://github.com/excilys/androidannotations/wiki/Injecting-Views)
+* [@App](https://github.com/excilys/androidannotations/wiki/Enhancing-the-Application-class)
+* [@Bean](https://github.com/excilys/androidannotations/wiki/Enhance-custom-classes)
+* [@Extra](https://github.com/excilys/androidannotations/wiki/Extras)
+* [@FragmentArg]()
+* [@FragmentById]()
+* [@FragmentByTag]()
+* [@FromHtml]()
+* [@HttpsClient]()
+* [@NonConfigurationInstance]()
+* [@RootContext]()
+* [@SystemService]()
+* [@ViewById]()
+* [@ViewsById]()
+
+##事件绑定
+
+* [@TextChange]()
+* [@AfterTextChange]()
+
