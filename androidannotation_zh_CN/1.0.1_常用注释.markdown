@@ -1,5 +1,6 @@
 #常用用注释
 =========
+
 [原文地址](https://github.com/excilys/androidannotations/wiki/AvailableAnnotations)
 这里列举了很多AndroidAnnotations框架支持的注释以及这些注释的使用文档链接。
 
